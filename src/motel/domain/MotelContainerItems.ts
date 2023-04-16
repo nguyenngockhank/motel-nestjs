@@ -1,0 +1,3 @@
+export const MOTEL_CONTAINER_ITEMS = {
+  REPOSITORY: Symbol('REPOSITORY'),
+};
